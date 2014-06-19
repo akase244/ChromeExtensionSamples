@@ -7,3 +7,4 @@ Chrome Extention Samples for JS Girls Fukuoka
 - **TweetNow**: 現在表示しているサイトをツイートする
 - **BlankChecker**: 現在表示しているサイトのalt属性が空っぽチェック
 - **GoHome**: 時間になったらチャイムが鳴り、画面が白んでいく
+- **Ggrni**: ググろうと思ってもググれない
